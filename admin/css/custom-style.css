@@ -1,0 +1,12 @@
+body{
+    font-family: 'Nunito', sans-serif;
+}
+
+.main-title{
+    font-family: 'Nunito', sans-serif;
+    text-transform: Capitalize;
+    font-weight: 600;
+}
+.perfect-bg-dark {
+    background: linear-gradient(90deg, black, #494949);
+}

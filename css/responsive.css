@@ -1,0 +1,14 @@
+@media screen and (max-width: 992px) {
+    .fs-7 {
+        font-size: .70rem !important;
+    }     .slider .carousel-item {
+        height: unset;
+    }
+}
+
+@media screen and (min-width: 576px) {
+    .contact-form {
+        max-width: 500px;
+    }
+   
+}
